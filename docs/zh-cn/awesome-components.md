@@ -39,6 +39,7 @@
 - [hyperf/model-cache](https://github.com/hyperf/model-cache) Hyperf 官方提供的基于 [hyperf/database](https://github.com/hyperf/database) 组件的自动模型缓存组件
 - [reasno/fastmongo](https://github.com/Reasno/fastmongo) 基于 `hyperf/gotask` 实现的协程化 `MongoDB` 客户端
 - [hyperf-ext/translatable](https://github.com/hyperf-ext/translatable) 为模型提供多语言能力
+- [233cy/hyperf-tenant](https://github.com/233cy/hyperf-tenant) 提供最简单的数据库模型单表多字段多租户（只实现最简单的全局条件约束，更多业务逻辑自行根据业务在回调中实现）。
 
 ## 依赖注入容器
 
